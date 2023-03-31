@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "仿某宝支付密码弹窗",
   "author": "LiuShunLi <1563940776@qq.como>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
