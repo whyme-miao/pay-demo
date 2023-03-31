@@ -1,8 +1,8 @@
 {
-  "name": "vue-zfb-password",
+  "name": "vpay-bass",
   "version": "1.0.0",
   "description": "仿某宝支付密码弹窗",
-  "author": "LiuShunLi <1563940776@qq.como>",
+  "author": "839720195@qq.com",
   "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
